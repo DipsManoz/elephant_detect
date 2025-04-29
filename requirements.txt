@@ -1,1 +1,7 @@
+streamlit
+opencv-python
+torch
+ultralytics
+numpy
+joblib
 
