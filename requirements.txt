@@ -1,8 +1,10 @@
+mesa
 streamlit
 opencv-python
-open-python-headless 
-torch
+opencv-python-headless
 ultralytics
 numpy
-joblib
+torch 
+torchvision
+
 
